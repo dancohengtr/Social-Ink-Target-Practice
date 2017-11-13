@@ -5,4 +5,5 @@
 **Instructions:**
 
 **-Use the left and right arrow keys to move the triangle left and right**
+
 **-Use the Spacebar to shoot the lines at the target**
